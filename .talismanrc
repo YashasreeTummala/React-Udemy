@@ -1,3 +1,5 @@
 fileignoreconfig:
 - filename: yarn.lock
   checksum: 4171e78871580e5c703023da499efd4dbebe47eddbc625c5e0a737252e42bb5f
+- filename: .idea/workspace.xml
+  checksum: fe71a2bdb6c38dda38ad0c93a922b1025e9d9e87bb4d829def6290b16c8eff22
